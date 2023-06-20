@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ+Dj42lvHXDp0xOChyx5lOw22LOE+lV80OU3ZaraZWZUbxNosBvSvWlUfwvFutmgKNrK+ZaeVnWarpjLtW2gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opolovina\\Documents\\Visual Studio 2019\\Projects\\Prodavnica_Filmova2\\Prodavnica_Filmova2\\Prodavnica_Filmova2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opolovina\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\ironsoftware.system.drawing\\2023.6.1\\ironsoftware.system.drawing.2023.6.1.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\ironxl.excel\\2023.6.4\\ironxl.excel.2023.6.4.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\opolovina\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
