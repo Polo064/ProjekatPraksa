@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJ+Dj42lvHXDp0xOChyx5lOw22LOE+lV80OU3ZaraZWZUbxNosBvSvWlUfwvFutmgKNrK+ZaeVnWarpjLtW2gw==",
+  "dgSpecHash": "pYtyNtwWdOMAZcG8b9+UGbW2DdgJzx/tMojFTXYkpZSZW3YHyaP8We3cVJRgavmQkSOx5+5yMNWZguJN6bTHaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opolovina\\Documents\\Visual Studio 2019\\Projects\\Prodavnica_Filmova2\\Prodavnica_Filmova2\\Prodavnica_Filmova2.csproj",
+  "projectFilePath": "C:\\Users\\opolovina\\Documents\\GitHub\\ProjekatPraksa\\Prodavnica_Filmova2\\Prodavnica_Filmova2\\Prodavnica_Filmova2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opolovina\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
     "C:\\Users\\opolovina\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
